@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sergio Catalan Portfolio
+plugins:
+  - jemoji
 description: This is my personal portfolio, I hope you like it!
