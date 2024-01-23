@@ -8,4 +8,4 @@ I am a data Scientist passionate about programing and AI :nerd_face:, I hope you
 
 Here are my contacts:
 
-LinkedIn: <www.linkedin.com/in/sergio-catalan-torralbo>
+LinkedIn: www.linkedin.com/in/sergio-catalan-torralbo
